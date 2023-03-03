@@ -14,3 +14,7 @@ body {
   min-height: 21rem;
   min-width: 21rem;
 }
+
+.Toastify__progress-bar {
+  background: red;
+}
